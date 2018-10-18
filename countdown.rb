@@ -3,5 +3,5 @@ def countdown(num)
   while count > -1 
   puts count 
 end
-puts "Happy new Year! "
+puts "Happy new Year!"
 end
